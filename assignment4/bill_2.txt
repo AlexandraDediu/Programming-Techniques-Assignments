@@ -1,0 +1,6 @@
+Order: 2
+Date: Wed May 15 08:13:42 EEST 2019
+Table: 1
+Gratar Pui: 8.5
+Ursus: 5.0
+Total: 13.5

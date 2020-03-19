@@ -1,0 +1,6 @@
+Order: 1
+Date: Wed May 15 11:21:51 EEST 2019
+Table: 4
+Pilaf cu Snitel: 12.0
+Gratar Pui: 8.5
+Total: 20.5
